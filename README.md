@@ -2,6 +2,11 @@
 
 This repository contains the API libraries and bot controller examples for the CodeArena game.
 
+## What is CodeArena?
+CodeArena is a game where you compete through code. Control your bot with a script and try to destroy your opponent before they destroy you!
+
+Whether you're looking to learn programming from scratch or challenge your friends to a duel of wits, CodeArena is simple to pick up but difficult to master.
+
 <p align=middle>
   <img src="media/fight.gif" width="470" />
   <img src="media/tracer.gif" width="470" /> 
@@ -17,6 +22,7 @@ This repository contains the API libraries and bot controller examples for the C
     ```
     python3 start.py
     ```
+    > Depending on your system, you might need to run `python start.py` instead.
 6. Return to the CodeArena game. In the top right corner you should now see 'Press SPACE to begin'.
 7. Hit spacebar to begin the match.
 
