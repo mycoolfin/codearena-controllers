@@ -5,7 +5,7 @@
 ## BotController
 
 ```python
-class BotController()
+BotController(controller_function)
 ```
 
 ---
