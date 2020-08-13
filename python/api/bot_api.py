@@ -23,7 +23,7 @@ class _Client:
             print(f"The server on port {self.port} closed the connection.")
             sys.exit()
         received = str(self.socket.recv(1024), "utf-8")
-        if received is "":
+        if received == "":
             print(f"The server on port {self.port} closed the connection.")
             sys.exit()
         return received
