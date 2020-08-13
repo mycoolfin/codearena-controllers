@@ -2,7 +2,10 @@
 
 This repository contains the API libraries and bot controller examples for the CodeArena game.
 
-![](media/fight.gif) ![](media/tracer.gif)
+<p align=middle>
+  <img src="media/fight.gif" width="500" />
+  <img src="media/tracer.gif" width="500" /> 
+</p>
 
 ## Quickstart guide
 > Currently, only a Python library is available for controlling the bots. You can download Python 3 [here](https://www.python.org/downloads/).
