@@ -74,7 +74,6 @@ def avoid_obstacles(bot, my_angle, bullets):
 
     return avoiding
 
-
 def react_to_enemy(bot, my_x, my_y, my_angle, energy, enemy):
     if energy >= 600:
         bot.set_speed(ESCAPE_SPEED)
