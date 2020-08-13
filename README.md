@@ -3,8 +3,8 @@
 This repository contains the API libraries and bot controller examples for the CodeArena game.
 
 <p align=middle>
-  <img src="media/fight.gif" width="450" />
-  <img src="media/tracer.gif" width="450" /> 
+  <img src="media/fight.gif" width="470" />
+  <img src="media/tracer.gif" width="470" /> 
 </p>
 
 ## Quickstart guide
