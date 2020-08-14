@@ -8,8 +8,8 @@ CodeArena is a game where you compete through code. Control your bot with a scri
 Whether you're looking to learn programming from scratch or challenge your friends to a duel of wits, CodeArena is simple to pick up but difficult to master.
 
 <p align=middle>
-  <img src="media/fight.gif" width="450" />
-  <img src="media/tracer.gif" width="450" /> 
+  <img src="media/fight.gif" width="400" />
+  <img src="media/tracer.gif" width="400" /> 
 </p>
 
 ## Quickstart guide
